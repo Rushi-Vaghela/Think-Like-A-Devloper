@@ -1,1 +1,1 @@
-# Tnink-Like-a-devloper
+# Think-Like-a-devloper
